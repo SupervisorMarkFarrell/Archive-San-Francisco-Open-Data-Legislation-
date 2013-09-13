@@ -10,7 +10,7 @@ This file is an update by Supervisor Mark Farrell to San Francisco's Open Data O
 Chapter 22D of the San Francisco Administrative Code provided open data policies and procedures for City Departments, the Chief Data Officer and Departmental Data Coordinators. 
 ### Amendments to Current Law
 
-This legislation amends the City’s existing open data ordinance in three ways: (1) it adds timelines for the appointment of a City Data Officer (CDO), Department Coordinators (DC), and the creation of departments’ open data plans; (2) it adds a requirement that the CDO create a process for private citizens to access to their own City held data; and (3) it provides guidance to the CDO for the design of technical standards to be used in the release of departmental open data. 
+This legislation amends the City’s existing open data ordinance in three ways: (1) it adds timelines for the appointment of Department Coordinators (DC), and the creation of departments’ open data plans; (2) it adds a requirement that the CDO create a process for private citizens to access to their own City held data; and (3) it provides guidance to the CDO for the design of technical standards to be used in the release of departmental open data. 
 
 The following deadlines are triggered by the effective date of the ordinance:
 
