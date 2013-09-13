@@ -1,6 +1,8 @@
 #2013 proposed revision to Chapter 22D of the San Francisco Administrative Code - San Francisco's Open Data Ordinance. 
 
-### **Description **
+###Description
+
+
 This file is an update by Supervisor Mark Farrell to San Francisco's Open Data Ordinance that establishes and improves San Francisco's open data standards; improves the protection of citizen privacy; and sets deadlines for the release of San Francisco's open data sets.  
 
 ### Existing Law
