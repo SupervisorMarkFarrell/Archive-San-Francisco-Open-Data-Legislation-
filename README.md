@@ -3,34 +3,33 @@
 **Description -**
 This file is an update by Supervisor Mark Farrell to San Francisco's Open Data Ordinance that establishes and improves San Francisco's open data standards; improves the protection of citizen privacy; and sets deadlines for the release of San Francisco's open data sets.  
 
-Existing Law
+### Existing Law
 
 Chapter 22D of the San Francisco Administrative Code provided open data policies and procedures for City Departments, the Chief Data Officer and Departmental Data Coordinators. 
-
-Amendments to Current Law
+### Amendments to Current Law
 
 This legislation amends the City’s existing open data ordinance in three ways: (1) it adds timelines for the appointment of a City Data Officer (CDO), Department Coordinators (DC), and the creation of departments’ open data plans; (2) it adds a requirement that the CDO create a process for private citizens to access to their own City held data; and (3) it provides guidance to the CDO for the design of technical standards to be used in the release of departmental open data. 
 
 The following deadlines are triggered by the effective date of the ordinance:
 
-•	Within three months, city departments shall designate Department Data Coordinators to oversee implementation and compliance with the open data policy within his/her respective department;
-•	Within six months, each Department shall conduct a review of their progress on providing access to data sets requested by the public through the designated web portal;
-•	Within six months, Departments shall publish on DataSF a catalogue of their  Department’s data that can be made public, including both raw datasets and APIs; and
-•	Within one year, the CDO shall present updated citywide Open Data implementation plan to COIT, the Mayor and Board of Supervisors. 
+- Within three months, city departments shall designate Department Data Coordinators to oversee implementation and compliance with the open data policy within his/her respective department;
+- Within six months, each Department shall conduct a review of their progress on providing access to data sets requested by the public through the designated web portal;
+- Within six months, Departments shall publish on DataSF a catalogue of their  Department’s data that can be made public, including both raw datasets and APIs; and
+- Within one year, the CDO shall present updated citywide Open Data implementation plan to COIT, the Mayor and Board of Supervisors. 
 
 Since the City is also a custodian of private data, the CDO will be charged with creating a plan for the release of this data in a format and on systems so that people can securely access their own data on themselves, for example, digital versions of their own medical records and/or their own permit applications.  The release of individual citizens data is intended to fuel the market of third-party solution providers that can transform individual data into valuable new products and services.
 
 By establishing technical guidelines for the government data released by departments, the CDO and DC’s will make the data more accessible and useful.  Thus, the data should be released with metadata descriptions, the documentation for Application Programming Interfaces (APIs), and a description of licensing requirements.  In addition, common core metadata shall, at a minimum, include fields for every dataset’s title, description, tags, last update, publisher, contact information, unique identifier, and public access level.  Required metadata clarifications and updates shall include, but are not necessarily limited to the following for each metadata description:
 
-•	Cardinality
-•	Required nature of sub-elements
-•	Accepted values
-•	Usage notes
-•	Syntax example
+- Cardinality
+- Required nature of sub-elements
+- Accepted values
+- Usage notes
+- Syntax example
 
 The CDO will also make reasonable efforts to make the published data sets on DataSF available in human and machine-readable formats that are non-proprietary.  This includes, but is not limited to, the following: 1) JavaScript Object Notation (JSON), 2) Comma-Separated Values (CSV), 3) Extensible Markup Language (XML), 4) Hyper Text Markup Language (HTML), and  5) Plain text.
 
-Background Information
+### Background Information
 
 San Francisco has been a leader in open data policy in the United States.  On October 21, 2009, Mayor Newsom issued Executive Directive 09-06, entitled Open Data ("the Directive").  The Directive stated the City's commitment to transparency in government by declaring that all appropriate data sets would be published through a designated website.  
 
